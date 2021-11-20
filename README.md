@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechUp18
 - 👀 I’m interested in computer sciences
 - 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on coding, AI,Cybersecurity, information processing,data science,digital marketing,IoT,Cloud computing
 - 📫 How to reach me mahere232@gmail.com
 
 <!---
